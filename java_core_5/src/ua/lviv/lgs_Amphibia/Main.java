@@ -13,6 +13,7 @@ public class Main
 		
 		System.out.println();
 		
+		//Homework for Java_Core_22
 		Action eat = () -> System.out.println("I eat");
 		frog2.action(eat);
 		Action sleep = () -> System.out.println("I sleep");
