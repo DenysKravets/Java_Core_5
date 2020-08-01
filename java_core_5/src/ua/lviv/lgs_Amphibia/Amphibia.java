@@ -19,6 +19,11 @@ public class Amphibia
 		System.out.println("I sleep");
 	}
 	
+	public void action(Action action)
+	{
+		action.action();
+	}
+	
 	Amphibia()
 	{
 		
